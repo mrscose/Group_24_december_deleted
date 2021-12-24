@@ -16,6 +16,7 @@ public class HelloGroup {
 
         System.out.println("hello everyone");
 
+        System.out.println("new practice");
 
 
 
